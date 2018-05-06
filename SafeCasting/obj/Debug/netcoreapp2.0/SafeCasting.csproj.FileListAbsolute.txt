@@ -1,0 +1,10 @@
+C:\Users\KL\AAA_code\til_20180506\SafeCasting\bin\Debug\netcoreapp2.0\SafeCasting.deps.json
+C:\Users\KL\AAA_code\til_20180506\SafeCasting\bin\Debug\netcoreapp2.0\SafeCasting.runtimeconfig.json
+C:\Users\KL\AAA_code\til_20180506\SafeCasting\bin\Debug\netcoreapp2.0\SafeCasting.runtimeconfig.dev.json
+C:\Users\KL\AAA_code\til_20180506\SafeCasting\bin\Debug\netcoreapp2.0\SafeCasting.dll
+C:\Users\KL\AAA_code\til_20180506\SafeCasting\bin\Debug\netcoreapp2.0\SafeCasting.pdb
+C:\Users\KL\AAA_code\til_20180506\SafeCasting\obj\Debug\netcoreapp2.0\SafeCasting.csproj.CoreCompileInputs.cache
+C:\Users\KL\AAA_code\til_20180506\SafeCasting\obj\Debug\netcoreapp2.0\SafeCasting.AssemblyInfoInputs.cache
+C:\Users\KL\AAA_code\til_20180506\SafeCasting\obj\Debug\netcoreapp2.0\SafeCasting.AssemblyInfo.cs
+C:\Users\KL\AAA_code\til_20180506\SafeCasting\obj\Debug\netcoreapp2.0\SafeCasting.dll
+C:\Users\KL\AAA_code\til_20180506\SafeCasting\obj\Debug\netcoreapp2.0\SafeCasting.pdb
